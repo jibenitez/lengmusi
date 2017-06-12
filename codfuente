@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es-es" lang="es-es" dir="ltr">
+<head>
+	<base href="http://trabajofindegrado.monicabalo.com/" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="keywords" content="joomla, Joomla" />
+	<meta name="description" content="Joomla! - the dynamic portal engine and content management system" />
+	<meta name="generator" content="Joomla! - Open Source Content Management - Version 3.7.2" />
+	<title>Páginas</title>
+	<link href="http://trabajofindegrado.monicabalo.com/component/search/?Itemid=103&amp;format=opensearch" rel="search" title="Buscar 4º Curso de Enseñanzas Elementales." type="application/opensearchdescription+xml" />
+	<link href="/media/jui/css/chosen.css?93dbcde961db7c3e4030e6196a77d3ef" rel="stylesheet" type="text/css" />
+	<script type="application/json" class="joomla-script-options new">{"system.keepalive":{"interval":840000,"uri":"\/component\/ajax\/?format=json"}}</script>
+	<script src="/media/jui/js/jquery.min.js?93dbcde961db7c3e4030e6196a77d3ef" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-noconflict.js?93dbcde961db7c3e4030e6196a77d3ef" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js?93dbcde961db7c3e4030e6196a77d3ef" type="text/javascript"></script>
+	<script src="/media/jui/js/chosen.jquery.min.js?93dbcde961db7c3e4030e6196a77d3ef" type="text/javascript"></script>
+	<script src="/media/system/js/caption.js?93dbcde961db7c3e4030e6196a77d3ef" type="text/javascript"></script>
+	<script src="/media/jui/js/bootstrap.min.js?93dbcde961db7c3e4030e6196a77d3ef" type="text/javascript"></script>
+	<script src="/media/system/js/mootools-core.js?93dbcde961db7c3e4030e6196a77d3ef" type="text/javascript"></script>
+	<script src="/media/system/js/core.js?93dbcde961db7c3e4030e6196a77d3ef" type="text/javascript"></script>
+	<script src="/media/system/js/mootools-more.js?93dbcde961db7c3e4030e6196a77d3ef" type="text/javascript"></script>
+	<!--[if lt IE 9]><script src="/media/system/js/polyfill.event.js?93dbcde961db7c3e4030e6196a77d3ef" type="text/javascript"></script><![endif]-->
+	<script src="/media/system/js/keepalive.js?93dbcde961db7c3e4030e6196a77d3ef" type="text/javascript"></script>
+	<script src="/media/system/js/html5fallback.js?93dbcde961db7c3e4030e6196a77d3ef" type="text/javascript"></script>
+	<script type="text/javascript">
+
+	jQuery(function ($) {
+		initChosen();
+		$("body").on("subform-row-add", initChosen);
+
+		function initChosen(event, container)
+		{
+			container = container || document;
+			$(container).find("select").chosen({"disable_search_threshold":10,"search_contains":true,"allow_single_deselect":true,"placeholder_text_multiple":"Type or select some options","placeholder_text_single":"Selecione una opci\u00f3n","no_results_text":"Sin resultados que coincidan"});
+		}
+	});
+	
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});
+jQuery(function($){ $(".hasTooltip").tooltip({"html": true,"container": "body"}); });
+	</script>
+
+	<link rel="shortcut icon" type="image/x-icon" href="/templates/siteground-j16-7/favicon.ico" />
+	<!-- The following line loads the template CSS file located in the template folder. -->
+	<link rel="stylesheet" href="/templates/siteground-j16-7/css/template.css" type="text/css" />
+	<script type="text/javascript" src="/templates/siteground-j16-7/js/sgmenu.js"></script>
+</head>
+<body class="page_bg">
+	<header>
+		<div class="logo">
+			<table cellpadding="0" cellspacing="0"><tr><td>
+				<h1><a href="/">4º Curso de Enseñanzas Elementales.</a></h1>
+			</td></tr></table>
+		</div>
+		<div class="top-menu">
+			<div id="sgmenu">
+				
+
+
+<ul class="menu">
+
+<li id="item-104"><a href="/paginas/entonacion" ><span>Entonación</span></a></li><li id="item-105"><a href="/paginas/teoria" ><span>Teoría</span></a></li></ul></li></ul>
+			<p>Hay un invitado y ningún miembro en línea</p>
+
+
+			</div>
+		</div>
+	</header>
+	<section id="content">
+		<div id="search">
+			<div class="search">
+	<form action="/" method="post" class="form-inline">
+		 <input type="image" alt="Buscar" class="button" src="/" onclick="this.form.searchword.focus();"/><label for="mod-search-searchword90" class="element-invisible">Buscar</label> <input name="searchword" id="mod-search-searchword90" maxlength="200"  class="inputbox search-query input-medium" type="search" placeholder="Buscar" />		<input type="hidden" name="task" value="search" />
+		<input type="hidden" name="option" value="com_search" />
+		<input type="hidden" name="Itemid" value="103" />
+	</form>
+</div>
+
+		</div>
+				<div class="maincol">			 	
+							<div class="leftcol">
+						<div class="module">
+			<div>
+				<div>
+					<div>
+													<h3>Acceso</h3>
+											<form action="/" method="post" id="login-form" class="form-inline">
+		<div class="userdata">
+		<div id="form-login-username" class="control-group">
+			<div class="controls">
+									<div class="input-prepend">
+						<span class="add-on">
+							<span class="icon-user hasTooltip" title="Usuario"></span>
+							<label for="modlgn-username" class="element-invisible">Usuario</label>
+						</span>
+						<input id="modlgn-username" type="text" name="username" class="input-small" tabindex="0" size="18" placeholder="Usuario" />
+					</div>
+							</div>
+		</div>
+		<div id="form-login-password" class="control-group">
+			<div class="controls">
+									<div class="input-prepend">
+						<span class="add-on">
+							<span class="icon-lock hasTooltip" title="Contraseña">
+							</span>
+								<label for="modlgn-passwd" class="element-invisible">Contraseña							</label>
+						</span>
+						<input id="modlgn-passwd" type="password" name="password" class="input-small" tabindex="0" size="18" placeholder="Contraseña" />
+					</div>
+							</div>
+		</div>
+				<div id="form-login-secretkey" class="control-group">
+			<div class="controls">
+									<div class="input-prepend input-append">
+						<span class="add-on">
+							<span class="icon-star hasTooltip" title="Clave secreta">
+							</span>
+								<label for="modlgn-secretkey" class="element-invisible">Clave secreta							</label>
+						</span>
+						<input id="modlgn-secretkey" autocomplete="off" type="text" name="secretkey" class="input-small" tabindex="0" size="18" placeholder="Clave secreta" />
+						<span class="btn width-auto hasTooltip" title="Si tiebe habilitada la autentificación por factor doble en su cuenta de usuario, por favor, introduzca si clave secreta. Si no sabe que significa esto, puede dejar el campo en blanco.">
+							<span class="icon-help"></span>
+						</span>
+				</div>
+				
+			</div>
+		</div>
+						<div id="form-login-remember" class="control-group checkbox">
+			<label for="modlgn-remember" class="control-label">Recuérdeme</label> <input id="modlgn-remember" type="checkbox" name="remember" class="inputbox" value="yes"/>
+		</div>
+				<div id="form-login-submit" class="control-group">
+			<div class="controls">
+				<button type="submit" tabindex="0" name="Submit" class="btn btn-primary login-button">Identificarse</button>
+			</div>
+		</div>
+					<ul class="unstyled">
+							<li>
+					<a href="/component/users/?view=remind&amp;Itemid=103">
+					¿Recordar usuario?</a>
+				</li>
+				<li>
+					<a href="/component/users/?view=reset&amp;Itemid=103">
+					¿Recordar contraseña?</a>
+				</li>
+			</ul>
+		<input type="hidden" name="option" value="com_users" />
+		<input type="hidden" name="task" value="user.login" />
+		<input type="hidden" name="return" value="aHR0cDovL3RyYWJham9maW5kZWdyYWRvLm1vbmljYWJhbG8uY29tLw==" />
+		<input type="hidden" name="1d60c2bac59777c3fb18bd86b85c219f" value="1" />	</div>
+	</form>
+					</div>
+				</div>
+			</div>
+		</div>
+	
+			</div>
+							<div class="cont">
+						<div id="system-message-container">
+	</div>
+
+						<div class="archive">
+<div class="page-header">
+<h1>
+	Páginas</h1>
+</div>
+<form id="adminForm" action="/" method="post" class="form-inline">
+	<fieldset class="filters">
+	<div class="filter-search">
+		
+		<select id="month" name="month" size="1" class="inputbox">
+	<option value="" selected="selected">Mes</option>
+	<option value="01">Ene</option>
+	<option value="02">Feb</option>
+	<option value="03">Mar</option>
+	<option value="04">Abr</option>
+	<option value="05">May</option>
+	<option value="06">Jun</option>
+	<option value="07">Jul</option>
+	<option value="08">Ago</option>
+	<option value="09">Sep</option>
+	<option value="10">Oct</option>
+	<option value="11">Nov</option>
+	<option value="12">Dic</option>
+</select>
+		<select id="year" name="year" size="1" class="inputbox">
+	<option value="" selected="selected">A&ntilde;o</option>
+</select>
+		<select id="limit" name="limit" class="inputbox input-mini" size="1" onchange="this.form.submit()">
+	<option value="5" selected="selected">5</option>
+	<option value="10">10</option>
+	<option value="15">15</option>
+	<option value="20">20</option>
+	<option value="25">25</option>
+	<option value="30">30</option>
+	<option value="50">50</option>
+	<option value="100">100</option>
+	<option value="0">Todos</option>
+</select>
+
+		<button type="submit" class="btn btn-primary" style="vertical-align: top;">Filtrar</button>
+		<input type="hidden" name="view" value="archive" />
+		<input type="hidden" name="option" value="com_content" />
+		<input type="hidden" name="limitstart" value="0" />
+	</div>
+	<br />
+	</fieldset>
+
+	
+<div id="archive-items">
+	</div>
+<div class="pagination">
+	<p class="counter">  </p>
+	</div>
+</form>
+</div>
+
+				</div>
+					<div class="rightcol">
+						<div class="module">
+			<div>
+				<div>
+					<div>
+													<h3>Esta Ud aquí</h3>
+											
+<ul itemscope itemtype="https://schema.org/BreadcrumbList" class="breadcrumb">
+			<li>
+			Está aquí: &#160;
+		</li>
+	
+				<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="active">
+				<span itemprop="name">
+					Inicio				</span>
+				<meta itemprop="position" content="1">
+			</li>
+		</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	
+			</div>
+					<div class="clr"></div>
+		</div>
+	</section>
+	<footer>
+		<p style="text-align:center;"> 	4º Curso de Enseñanzas Elementales., Powered by <a href="http://joomla.org/" class="sgfooter" target="_blank">Joomla!</a>
+			<!-- FOOTER BEGIN --><a href="http://www.siteground.com/email-hosting.htm" target="_blank">Email hosting</a> by SiteGround<!-- FOOTER END -->
+	</p>
+	</footer>
+</body>
+</html>
